@@ -1,7 +1,7 @@
 # COOPER TEST
 ## Week 2 JavaScript
 
-Introduction
+### Introduction
 -------
 The Cooper Test is used to monitor the development of a person's aerobic endurance and to obtain an estimate of their VO2 max. This program calculates the aerobic endurance based on a person's completed distance, in accordance to the Cooper Normative Data Table. The results available are included in a range starting from Poor, Belowe Average, Average, Above Average and Excellent.
 
